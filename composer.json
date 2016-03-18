@@ -1,0 +1,14 @@
+{
+    "name": "adrianorosa/php-search-engine",
+    "description": "The missing PHP Search Engine",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adriano Rosa",
+            "email": "info@adrianorosa.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
